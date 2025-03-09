@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #ff00f2;
-  --secondary-color: #d000ff;
+  --primary-color: #00ff8c;
+  --secondary-color: #00ffc8;
 }
 * {
   /* Below is the standard CSS code one should add to get rid of default margins and padding which most of tge HTML elements have */
@@ -51,7 +51,7 @@ body {
   padding: 8px 10px;
   border-radius: 6px;
   transition: 0.3s;
-  background-color: #ff00f2;
+  background-color: #00ff8c;
 }
 .navbar a:hover {
   background-color: transparent;
@@ -62,7 +62,7 @@ body {
   border: none;
   border-radius: 4px;
   padding: 6px 8px;
-  background-color: #ff00f2;
+  background-color: #00ff8c;
   color: white;
 }
 .navbar > .icon {
